@@ -1,8 +1,8 @@
 import React from "react";
 import "./Contact.css";
-import mail_icon from "../../assets/mail.svg";
-import git_icon from "../../assets/github.svg";
-import insta_icon from "../../assets/insta.svg";
+import mail_icon from "/assets/mail.svg";
+import git_icon from "/assets/github.svg";
+import insta_icon from "/assets/insta.svg";
 
 const Contact = () => {
   const [result, setResult] = React.useState("");

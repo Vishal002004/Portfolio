@@ -1,7 +1,7 @@
 import React from "react";
 import "./MyWork.css";
-import portfolio from "../../assets/portfolio.png";
-import recipe_search from "../../assets/recipe-search.png";
+import portfolio from "/assets/portfolio.png";
+import recipe_search from "/assets/recipe-search.png";
 
 const MyWork = () => {
   return (
